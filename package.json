@@ -13,6 +13,6 @@
   "bugs": "",
   "homepage": "https:www.none.com",
   "devDependencies": {
-    "electron": "^4.0.0-nightly.20181010"
+    "electron": "^4.1.4"
   }
 }
